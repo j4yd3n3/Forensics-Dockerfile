@@ -22,3 +22,5 @@ Now you can run using the following command which also mounts the files from you
 ```sh
 docker run -it -v $(pwd):/challenge [your_image_name] 
 ```
+
+Symlinks for Volatility2 and Volatility3 were created. Use `vol2` and `vol3` to launch the respective versions
