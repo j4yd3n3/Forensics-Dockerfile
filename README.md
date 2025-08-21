@@ -1,4 +1,4 @@
-Nobody likes setting up forensic tools like Volatility2, so here's a dockerfile for packaging together common forensic tools in CTFs.
+Nobody likes setting up forensic tools like Volatility2, so here's a dockerfile for packaging together common forensic tools.
 
 ### Main Tools included:
 - Volatility 2 and 3
